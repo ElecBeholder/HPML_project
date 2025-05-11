@@ -110,8 +110,7 @@ python train.py --evaluate --checkpoint path/to/checkpoint.pth
 
 ## Performance Metrics
 Expected performance on CIFAR-100:
-- Top-1 accuracy: ~70-75%
-- Top-5 accuracy: ~90-95%
+- Top-1 accuracy: ~39%
 
 ## Implementation Details
 
